@@ -56,16 +56,6 @@ My goal is to become a <b>Data Engineer</b> capable of designing and maintaining
   <img src="https://img.shields.io/badge/PyCharm-IDE-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
----
-
-<h2>🏆 Selected Achievements</h2>
-<ul>
-  <li>⚙️ Improved REST API performance by ~30% through query optimization and caching (Spring Boot, MySQL).</li>
-  <li>🛠️ Reduced unplanned downtime by optimizing preventive maintenance with SQL and dashboards.</li>
-  <li>📊 Built reports to monitor deliveries, buyout rate, and routing for logistics insights.</li>
-</ul>
-
----
 
 <h2>🎓 Education</h2>
 <ul>

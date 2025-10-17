@@ -2,7 +2,7 @@
   <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)]
+[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 

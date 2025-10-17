@@ -2,9 +2,6 @@
   <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <h2 align="center"> Hi 👋, I'm Duvan Mendoza </h2>
 <h3 align="center">Backend Developer • Data Analyst • Java & Python</h3>

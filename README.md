@@ -5,7 +5,7 @@
 
 <h2>🐣 About Me</h2>
 <p>
-Hi, I'm <b>Duvan Mendoza</b> ✨ — a master's student in <b>Software Engineering and Big Data</b> at the National Research Nuclear University <b>MEPhI</b>.
+Hi, I'm <b>Duvan Mendoza</b> 😃 — a master's student in <b>Software Engineering and Big Data</b> at the National Research Nuclear University <b>MEPhI</b>.
 <br><br>
 I’m passionate about <b>data engineering</b>, <b>backend development</b>, and <b>analytics</b>. I’m focused on mastering technologies that enable building scalable, automated, and data-driven systems — from data ingestion and transformation to analytics and visualization.
 <br><br>

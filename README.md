@@ -1,6 +1,13 @@
 <h2 align="center"> Hi 👋, I'm Duvan Mendoza </h2>
 <h3 align="center">•Data Engineer •Data Analyst • Backend Developer • Java & Python</h3>
 <p align="center">
+<p align="center">
+  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+</p>
+
+[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/)  [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)  [![Website Badge](https://img.shields.io/badge/-devisha.me-c14438?style=flat-square&logo=Website&logoColor=white&link=https://devisha.me)](https://devisha.me)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
   <!-- Data Engineering & Analytics (Primary) -->
   <img src="https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Modeling-Star%20Schema%20%7C%20Snowflake-000000?style=for-the-badge" />

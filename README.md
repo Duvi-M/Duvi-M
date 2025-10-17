@@ -9,7 +9,7 @@ Hi, I'm <b>Duvan Mendoza</b> 😃 — a master's student in <b>Software Engineer
 <br><br>
 I’m passionate about <b>data engineering</b>, <b>backend development</b>, and <b>analytics</b>. I’m focused on mastering technologies that enable building scalable, automated, and data-driven systems — from data ingestion and transformation to analytics and visualization.
 <br><br>
-Currently developing expertise in <b>SQL</b>, <b>Python</b>, <b>Spark</b>, <b>PySpark</b>, <b>Airflow</b>, <b>dbt</b>, <b>Power BI</b>, and <b>Cloud Platforms</b> (AWS, Azure, GCP), while strengthening my foundation in backend frameworks like <b>Spring Boot</b>.
+Currently developing expertise in <b>SQL</b>, <b>Python</b>, <b>Spark</b>, <b>PySpark</b>, <b>Airflow</b>, <b>dbt</b>, and <b>Cloud Platforms</b> (AWS, Azure, GCP), while strengthening my foundation in backend frameworks like <b>Spring Boot</b>.
 </p>
 
 <h3>🎯 Career Objective</h3>

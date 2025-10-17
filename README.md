@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Duvan Mendoza </h2>
-<h3 align="center">Backend Developer • Data Analyst • Java & Python</h3>
+<h3 align="center">•Data Engineer •Data Analyst • Backend Developer • Java & Python</h3>
 <p align="center">
   <!-- Data Engineering & Analytics (Primary) -->
   <img src="https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge" />

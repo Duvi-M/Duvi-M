@@ -1,29 +1,71 @@
-<p align="center">
-  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
-</p>
-
-
 <h2 align="center"> Hi 👋, I'm Duvan Mendoza </h2>
-<h3 align="center">• Data Engineer • Data Analyst • Backend Developer  Java & Python</h3>
+<h3 align="center"> • Data Engineer • Data Analyst • Backend Developer • Java & Python</h3>
 <p align="center">
   <!-- Data Engineering & Analytics (Primary) -->
   <img src="https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-Star%20Schema%20%7C%20Snowflake-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-Star%20%7C%20Snowflake-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ETL%2FELT-Airflow%20%7C%20dbt%20%7C%20Pandas-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Warehousing-PostgreSQL%20%7C%20MySQL%20%7C%20BigQuery-4169E1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BI-Power%20BI-DBA617?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20Basics-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed%20Processing-Spark%20%7C%20PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streaming-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-Orchestration%20%7C%20Scheduling-444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Warehousing-PostgreSQL%20%7C%20MySQL%20%7C%20BigQuery-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/BI-Power%20BI-DBA617?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-  <!-- Programming -->
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-Basics-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+  <!-- Programming & VCS -->
   <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-23-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-%20-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%20-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%20-181717?style=for-the-badge&logo=github&logoColor=white" />
 
   <!-- DevOps & OS -->
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Jenkins-2C3E50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-%20-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%20-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-%20-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<h2>Learning Roadmap (Data Engineering)</h2>
+
+<details open>
+  <summary>🎓 #1 Core Skills</summary>
+  <ul>
+    <li>🧠 SQL</li>
+    <li>🐍 Python</li>
+    <li>⭐ Spark & PySpark</li>
+    <li>🌟 Git & GitHub</li>
+    <li>🔗 Data Pipelines (orchestration, scheduling)</li>
+    <li>🏗️ Data Platform (storage, compute, permissions)</li>
+    <li>🚀 Data Engineering Project (end‑to‑end)</li>
+  </ul>
+</details>
+
+<details>
+  <summary>💼 #2 Get Hired</summary>
+  <ul>
+    <li>📝 Create your CV</li>
+    <li>🔗 Build LinkedIn profile</li>
+    <li>📦 Build Git portfolio</li>
+    <li>📮 Apply for jobs</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🌱 #3 Level Up</summary>
+  <ul>
+    <li>☁️ Cloud Platforms: Azure / AWS / GCP</li>
+    <li>🔁 CI/CD</li>
+    <li>🧵 Apache Kafka (streaming)</li>
+    <li>🏛️ Data Architectures (Lakehouse, Medallion)</li>
+    <li>⚙️ Data Processing (batch & streaming)</li>
+    <li>📐 Data Modeling (3NF, Star/Snowflake)</li>
+    <li>🍰 Data Partitioning</li>
+    <li>📈 Logging & Monitoring</li>
+  </ul>
+</details>
 
 <h2>Selected Achievements</h2>
 

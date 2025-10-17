@@ -39,9 +39,9 @@ My goal is to become a <b>Data Engineer</b> capable of designing and optimizing 
 <h2>🎓 Education</h2>
 <ul>
   <li><b>MEPhI</b> — M.Sc., Software Engineering & Big Data (Expected Jul 2026)</li>
-  <li><b>MEPhI</b> — Applied Data Analysis Certificate (Aug 2025)</li>
-  <li><b>DIVIC CORP</b> — AI Data Engineering Certificate (Aug 2025)</li>
-  <li><b>UAGRM</b> — B.Sc., Electrical Engineering (2019–2023)</li>
+  <li><b>MEPhI</b> — Applied Data Analysis Certificate</li>
+  <li><b>DIVIC CORP</b> — AI Data Engineering Certificate</li>
+  <li><b>UAGRM</b> — B.Sc., Electrical Engineering</li>
 </ul>
 
 ---

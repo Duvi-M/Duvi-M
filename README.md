@@ -71,6 +71,7 @@ My goal is to become a <b>Data Engineer</b> capable of designing and maintaining
 <p>
   <a href="mailto:d.mendoza.ortega@outlook.com">d.mendoza.ortega@outlook.com</a>
   <br>
+  <a href="https://t.me/Duvan_mend">My Telegram</a>
   <a href="sandbox:/mnt/data/Duvan_CV_RU.pdf" target="_blank">
     <img alt="Download CV" src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader">
   </a>

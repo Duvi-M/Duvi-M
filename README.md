@@ -81,7 +81,4 @@ My goal is to become a <b>Data Engineer</b> capable of designing and maintaining
 </p>
 
 <hr/>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Duvi-M" alt="Duvi-M" />
-</p>
 <p align="center"><i>Last updated: Nov 8, 2025</i></p>

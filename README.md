@@ -76,6 +76,7 @@ My goal is to become a <b>Data Engineer</b> capable of designing and maintaining
   <a href="sandbox:/mnt/data/Duvan_CV_RU.pdf" target="_blank">
     <img alt="Download CV" src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader">
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/duvan-mendoza-ortega-87bb57321" target="_blank">My LinkedIn</a>
 </p>
 

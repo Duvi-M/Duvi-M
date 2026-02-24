@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Duvan Mendoza </h2>
-<h3 align="center">• Machine Learning Engineer • Data Science • Recommender Systems • PyTorch</h3>
+<h3 align="center">• Machine Learning Engineer • Data Science </h3>
 
 ---
 

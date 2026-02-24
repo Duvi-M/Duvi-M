@@ -1,81 +1,86 @@
 <h2 align="center"> Hi 👋, I'm Duvan Mendoza </h2>
-<h3 align="center">• Data Engineer • Data Analyst • Backend Developer • Java & Python</h3>
+<h3 align="center">• Machine Learning Engineer • Data Science • Recommender Systems • PyTorch</h3>
 
 ---
 
-<h2>🐣 About Me</h2>
+<h2>🧠 About Me</h2>
 <p>
-Hi, I'm <b>Duvan Mendoza</b> 😃 — a master's student in <b>Software Engineering and Big Data</b> at the National Research Nuclear University <b>MEPhI</b>.
+Hi, I'm <b>Duvan Mendoza</b> — a master's student in <b>Software Engineering & Big Data</b> at <b>MEPhI (Moscow)</b>.
 <br><br>
-I’m passionate about <b>data engineering</b>, <b>backend development</b>, and <b>analytics</b>. I’m focused on mastering technologies that enable building scalable, automated, and data-driven systems — from data ingestion and transformation to analytics and visualization.
+My focus is on <b>Machine Learning engineering</b>, <b>deep learning</b>, and <b>large-scale data systems</b>.
+I am particularly interested in <b>recommender systems</b>, <b>vector search</b>, and <b>efficient model inference</b>.
 <br><br>
-Currently developing expertise in <b>SQL</b>, <b>Python</b>, <b>Spark</b>, <b>PySpark</b>, <b>Airflow</b>, <b>dbt</b>, and <b>Cloud Platforms</b> (AWS, Azure, GCP), while strengthening my foundation in backend frameworks like <b>Spring Boot</b>.
+I build end-to-end ML pipelines using <b>Python</b> and <b>PyTorch</b>, working with data preprocessing, training, evaluation, and deployment-ready architectures.
+I enjoy optimizing models and understanding how ML systems scale in production environments.
 </p>
 
-<h3>🎯 Career Objective</h3>
+<h3>🎯 Current Focus</h3>
 <p>
-My goal is to become a <b>Data Engineer</b> capable of designing and maintaining robust data platforms that empower organizations to make better decisions through data accessibility, reliability, and automation.
+• Vector embeddings & similarity search  
+• Neural networks & Transformers  
+• Model inference optimization  
+• Recommendation systems  
+• Large-scale data processing  
+• SQL-based analytical systems  
 </p>
 
 ---
 
-<h2>📡 Tech Stack</h2>
+<h2>⚙️ Core Technical Stack</h2>
 
-<h3>💾 Data Engineering & Analytics</h3>
+<h3>🤖 Machine Learning & Deep Learning</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFCC4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-Vector%20Representations-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-ROC%20%7C%20Precision%20%7C%20Recall-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-1F77B4?style=for-the-badge" />
+</p>
+
+<h3>📊 Data Processing</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Data%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark%20%26%20PySpark-Distributed%20Processing-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL%2FELT-Airflow%20%7C%20dbt%20%7C%20Pandas-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-Star%20%7C%20Snowflake-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streaming-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/BI-Power%20BI-DBA617?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spark-Big%20Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
 
-<h3>☁️ Cloud & DevOps</h3>
+<h3>🚀 ML Systems & Engineering</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Jenkins-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-%20-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h3>🧱 Backend Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-API%20Development-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-Design-000000?style=for-the-badge" />
-</p>
+---
 
-<h3>🧰 Tools & Version Control</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-%20-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%20-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-IDE-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-</p>
-
-
-<h2>🎓 Education</h2>
+<h2>📚 Education</h2>
 <ul>
-  <li><b>MEPhI</b> — M.Sc., Software Engineering & Big Data (Expected Jul 2026)</li>
-  <li><b>MEPhI</b> — Applied Data Analysis Certificate</li>
-  <li><b>DIVIC CORP</b> — AI Data Engineering Certificate</li>
+  <li><b>MEPhI</b> — M.Sc., Software Engineering & Big Data (Expected 2026)</li>
+  <li><b>School 21 (Sber)</b> — Data Science track</li>
   <li><b>UAGRM</b> — B.Sc., Electrical Engineering</li>
 </ul>
 
 ---
 
+<h2>📌 Research & Technical Interests</h2>
+<p>
+• Recommender systems  
+• Vector search engines  
+• Neural ranking models  
+• Efficient inference & GPU acceleration  
+• Distributed ML systems  
+• Large-scale data pipelines  
+</p>
+
+---
+
 <h2>📫 Contact</h2>
 <p>
-  <a href="mailto:d.mendoza.ortega@outlook.com">d.mendoza.ortega@outlook.com</a>
-  <br>
-  <a href="https://t.me/Duvan_mend">Telegram - contact</a>
-  <br>
-  <a href="https://www.linkedin.com/in/duvan-mendoza-ortega-87bb57321" target="_blank">My LinkedIn</a>
-  <br>
+  <a href="mailto:d.mendoza.ortega@outlook.com">d.mendoza.ortega@outlook.com</a><br>
+  <a href="https://www.linkedin.com/in/duvan-mendoza-ortega-87bb57321">LinkedIn</a>
 </p>
 
 <hr/>
-<p align="center"><i>Last updated: Nov 8, 2025</i></p>
+<p align="center"><i>Machine Learning • Scalable Systems • Vector Search</i></p>

@@ -168,7 +168,7 @@ Backend services and REST APIs built with Java, Spring Boot, FastAPI, SQL databa
   <br>
   <li>
     <b>School 21 — Sber</b><br>
-    Data Science / Software Engineering Track
+    Data Science
   </li>
   <br>
   <li>

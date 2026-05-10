@@ -183,7 +183,7 @@ Backend services and REST APIs built with Java, Spring Boot, FastAPI, SQL databa
 <h2>📜 Certifications & Additional Education</h2>
 
 <ul>
-  <li>Mathematics for Machine Learning and Data Science — DeepLearning.AI</li>
+  <li>Mathematics for Machine Learning and Data Science Specialization — DeepLearning.AI / Coursera</li>
   <li>AWS Cloud Practitioner</li>
   <li>Applied Data Analysis Certificate — MEPhI</li>
   <li>AI / Data Engineering Program — DIVIC Corp, Japan</li>

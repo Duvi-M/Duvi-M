@@ -165,6 +165,11 @@ Backend services and REST APIs built with Java, Spring Boot, FastAPI, SQL databa
     M.Sc. in Software Engineering & Big Data<br>
     2024 – 2026
   </li>
+   <li>
+    <b>MEPhI — National Research Nuclear University</b><br>
+    Certificate in Applied Data Analysis <br>
+    2025 – 2026
+  </li>
   <br>
   <li>
     <b>School 21 — Sber</b><br>

@@ -171,10 +171,6 @@ Backend services and REST APIs built with Java, Spring Boot, FastAPI, SQL databa
     2025 – 2026
   </li>
   <br>
-  <li>
-    <b>School 21 — Sber</b><br>
-    Data Science
-  </li>
   <br>
   <li>
     <b>UAGRM — Universidad Autónoma Gabriel René Moreno</b><br>

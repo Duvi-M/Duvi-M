@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Duvan Mendoza Ortega</h2>
 
 <h3 align="center">
-  Machine Learning Engineer · NLP & Transformers · Data Science
+  Machine Learning Engineer · NLP & Transformers · Backend developer
 </h3>
 
 <p align="center">

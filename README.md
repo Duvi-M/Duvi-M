@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://media.tenor.com/lYD3vM0-VvIAAAAC/artificial-intelligence-ai.gif" width="120" style="border-radius: 50%;" alt="AI Developer" />
 </p>
@@ -256,4 +255,3 @@ My work focuses on connecting **NLP research**, **LLM-powered workflows**, and *
 <p align="center">
   <em>Machine Learning Engineering · NLP · LLM Systems · LoRA · Backend AI · Data Science</em>
 </p>
-```

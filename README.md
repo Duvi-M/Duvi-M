@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Duvan 👋</h1>
 
 <p align="center">
-  <code>Duvi-M</code> • <strong>Machine Learning Engineer</strong> • <strong>NLP / LLM Systems / Backend AI</strong><br/>
+  <code>Duvi-M</code> • <strong>IA/Machine Learning Engineer</strong> • <strong>NLP / LLM Systems / Backend AI</strong><br/>
   <em>Building reproducible ML pipelines, LLM-powered workflows, and backend AI systems.</em>
 </p>
 

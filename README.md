@@ -188,7 +188,7 @@ My work focuses on connecting **NLP research**, **LLM-powered workflows**, and *
 
 | Role                          | Organization     | Period              | Focus                                                                                     |
 | ----------------------------- | ---------------- | ------------------- | ----------------------------------------------------------------------------------------- |
-| **Junior AI Engineer**        | Moline           | Jan 2026 – Jun 2026 | AI backend workflows, RAG-oriented systems, document understanding, structured extraction |
+| **Junior AI Engineer**        | CambioML           | Jan 2026 – Jun 2026 | AI backend workflows, RAG-oriented systems, document understanding, structured extraction |
 | **Backend Software Engineer** | Bybit            | Apr 2024 – Dec 2024 | Java/Spring Boot services, FastAPI migration, SQL optimization, Docker, AWS EC2           |
 | **Data Analyst**              | Vitol            | Jan 2023 – Dec 2023 | SQL dashboards, KPIs, Python automation, operational analytics                            |
 | **Data Analyst**              | 47Tech Logistics | Jun 2025 – Oct 2025 | Logistics analytics, SQL/Python workflows, inventory and reporting pipelines              |
